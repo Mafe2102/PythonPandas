@@ -1,0 +1,1 @@
+comidas=[["frijoles",22500],["lasaña",18000],["tinto",2500],["guarapo",2000],["helado",8500]]
